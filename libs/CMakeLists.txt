@@ -1,0 +1,6 @@
+add_subdirectory(external_libs/glad)
+add_subdirectory(external_libs/glfw-3.4)
+add_subdirectory(internal_libs/game_object)
+add_subdirectory(internal_libs/collision)
+add_subdirectory(internal_libs/shader)
+add_subdirectory(internal_libs/renderer)
